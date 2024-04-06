@@ -1,0 +1,2 @@
+appVersion: #type a versniom of your app
+kind: # service which you want to use like services, deployment and statefullset etc
